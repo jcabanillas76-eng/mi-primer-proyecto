@@ -141,4 +141,7 @@ For the list of people who've put work into PHP, please see the
 [PHP credits page](https://php.net/credits.php).
 ""
 "## Cambios realizados"
-"-Configuraci¢n inicial completada" 
+"-ConfiguraciÂ¢n inicial completada" 
+
+  ## Editado desde GitHub
+   Este cambio fue hecho directamente en la plataforma web.
